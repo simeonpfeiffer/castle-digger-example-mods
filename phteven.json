@@ -1,0 +1,19 @@
+{
+  "type": "PrefabPersons",
+  "items": {
+    "mod-test-person": {
+      "statBuilder": 1,
+      "name": "Phtephen",
+      "allowRandomUnlock": true,
+      "statForager": 4,
+      "hunger": 1,
+      "profession": "Scout",
+      "statWorker": 1,
+      "bgColor": "#8c7a99",
+      "imageName": "https://i.imgur.com/dsehHVg.jpeg",
+      "specialAbilities": [],
+      "flavorText": "Written with Ph.",
+      "reportStyle": "default"
+    }
+  }
+}

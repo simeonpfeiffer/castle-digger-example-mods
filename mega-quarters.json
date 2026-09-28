@@ -1,0 +1,13 @@
+{
+  "_comment": "This is a very small example mod that overrides the Quarters building and turns it into Mega-Quarters. Access-Control-Allow-Origin on the file server must allow https://castle-digger.com and the header must be application/json.",
+  "type": "PrefabBuildings",
+  "items": {
+      "building-bedroom-servants": {
+      "name": "Mega-Quarters",
+      "special": {
+        "beds": 100
+      },
+      "description": "A place to sleep for AN ARMY. Prevents tiredness. Quite cuddlesome indeed and noone pays you rent."
+    }
+  }
+}
