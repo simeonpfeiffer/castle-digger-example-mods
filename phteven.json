@@ -1,5 +1,5 @@
 {
-  "_comment": "You can spawn these with the console cheat AddNewPerson('tarte-mod-phteven') and AddNewPerson('tarte-mod-phtephen-animated');".
+  "_comment": "You can spawn these with the console cheat AddNewPerson('tarte-mod-phteven'); and AddNewPerson('tarte-mod-phtephen-animated');",
   "type": "PrefabPersons",
   "items": {
     "tarte-mod-phteven": {
