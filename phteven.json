@@ -29,6 +29,11 @@
       "specialAbilities": [],
       "flavorText": "He has earned the highest academic degree awarded by a university after completing original research and a dissertation: A PhD.",
       "reportStyle": "default"
+    },
+    "male-100": {
+      "name": "Pharphe",
+      "flavorText": "A scallywag originally known as Tarte. Now he has gone full lunatic.",
+      "reportStyle": "lunatic"
     }
   }
 }
