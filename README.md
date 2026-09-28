@@ -26,7 +26,8 @@ Open settings -> mods for confirmation that the mods were loaded.
 # Troubleshooting
 * Open the URL in your browser. You should see only JSON text, no web page.
 * If the mod isn't listed in `settings -> mods`, reload the game and check the URL again.
-* If you want to purge all mods from your save, open the browser console and enter this: `window.ModUrls = []; Save();`. Then reload. This removes all mods; it does not magically repair a broken save.
+* If you want to purge all mods from your save, open the browser console and enter this: `window.ModUrls = []; Save();`. Then reload.
+* Removing mods does not magically repair a broken save. Use the export/import feature to repair broken saves.
 
 # Hosting your own mod
 The URL must point to the JSON file itself, not to a web page showing it. GitHub raw links (`raw.githubusercontent.com/...`) and Gists work well. Most file sharing services (Dropbox, Google Drive, etc.) will not work, because they don't allow websites to load their files directly. If unsure, use GitHub.
