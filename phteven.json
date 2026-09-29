@@ -3,32 +3,32 @@
   "type": "PrefabPersons",
   "items": {
     "tarte-mod-phteven": {
-      "statBuilder": 1,
       "name": "Phteven",
-      "allowRandomUnlock": true,
-      "statForager": 4,
-      "hunger": 1,
       "profession": "Good Boy",
-      "statWorker": 1,
-      "bgColor": "#8c7a99",
       "imageName": "https://i.imgur.com/dsehHVg.jpeg",
+      "statBuilder": 1,
+      "statForager": 4,
+      "statWorker": 1,
       "specialAbilities": [],
+      "hunger": 1,
       "flavorText": "Written with Ph.",
-      "reportStyle": "default"
+      "reportStyle": "default",
+      "allowRandomUnlock": true,      
+      "bgColor": "#8c7a99"
     },
     "tarte-mod-phtephen-animated": {
-      "statBuilder": 1,
-      "name": "Phtephen",
-      "allowRandomUnlock": true,
-      "statForager": 1,
-      "hunger": 1,
+      "name": "PhDephen",
       "profession": "Entertainer",
-      "statWorker": 1,
-      "bgColor": "#8c7a99",
       "imageName": "https://i.imgur.com/xgJE1OG.gif",
+      "statBuilder": 1,
+      "statForager": 1,
+      "statWorker": 1,
       "specialAbilities": [],
-      "flavorText": "He has earned the highest academic degree awarded by a university after completing original research and a dissertation: A PhD.",
-      "reportStyle": "default"
+      "hunger": 1,
+      "flavorText": "He has earned the highest academic degree awarded by a university after completing original research and a dissertation.",
+      "reportStyle": "default",
+      "allowRandomUnlock": true,      
+      "bgColor": "#8c7a99"
     },
     "male-100": {
       "name": "Pharphe",
