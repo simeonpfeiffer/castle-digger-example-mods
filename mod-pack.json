@@ -1,0 +1,11 @@
+{
+    "format": "castle-digger-mod-pack",
+    "version": 1,
+    "name": "Example Pack",
+    "author": "Your Name",
+    "description": "A mod pack lists the URLs of mods, so one entry in the mod list installs all of them. Entries may point at another pack. Every URL is loaded at most once, and mods later in the list override earlier ones.",
+    "mods": [
+        "https://raw.githubusercontent.com/simeonpfeiffer/castle-digger-example-mods/refs/heads/main/mega-quarters.json",
+        "https://raw.githubusercontent.com/simeonpfeiffer/castle-digger-example-mods/refs/heads/main/phteven.json"
+    ]
+}
