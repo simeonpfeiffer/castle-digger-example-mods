@@ -12,7 +12,7 @@ https://castle-digger.com/game-data/
 > ⚠️ Mods might break your save game. Export a backup of your save before adding mods.
 
 # Try an example mod
-1. Click on one of the JSON files above: `mega-quarters.json` or `phteven.json`.
+1. Click on one of the JSON files above: `mega-quarters.json` or `phteven.json`. `mod-pack.json` for both.
 2. Click the **Raw** button (top right of the file view) and copy the URL from your browser's address bar.
 3. Open your save game on castle-digger.com -> settings -> mods.
 4. Paste the URL and add it to the list.
