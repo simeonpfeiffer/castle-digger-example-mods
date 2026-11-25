@@ -7,3 +7,8 @@ html {
 .message {
   color: red;
 }
+
+#message-list::before {
+  content: 'example mod loaded';
+  color: red;
+}
