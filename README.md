@@ -12,7 +12,7 @@ https://castle-digger.com/game-data/
 > ⚠️ Mods might break your save game. Export a backup of your save before adding mods.
 
 # Try an example mod
-1. Click on one of the JSON files above: `mega-quarters.json` or `phteven.json`. `mod-pack.json` for both.
+1. Click on one of the JSON/CSS files above: `mega-quarters.json` or `phteven.json` or `style-example.css`. `mod-pack.json` for all three.
 2. Click the **Raw** button (top right of the file view) and copy the URL from your browser's address bar.
 3. Open your save game on castle-digger.com -> settings -> mods.
 4. Paste the URL and add it to the list.
@@ -20,6 +20,7 @@ https://castle-digger.com/game-data/
 
 `mega-quarters.json` turns all Quarters into Mega-Quarters.
 `phteven.json` adds a new person called Phteven, whom you must unlock.
+`style-example` changes the font to mono and makes all messages red.
 
 Open settings -> mods for confirmation that the mods were loaded.
 
