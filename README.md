@@ -18,9 +18,9 @@ https://castle-digger.com/game-data/
 4. Paste the URL and add it to the list.
 5. Reload the game.
 
-`mega-quarters.json` turns all Quarters into Mega-Quarters.
-`phteven.json` adds a new person called Phteven, whom you must unlock.
-`style-example` changes the font to mono and makes all messages red.
+* `mega-quarters.json` turns all Quarters into Mega-Quarters.
+* `phteven.json` adds a new person called Phteven, whom you must unlock.
+* `style-example` changes the font to mono and makes all messages red.
 
 Open settings -> mods for confirmation that the mods were loaded.
 
