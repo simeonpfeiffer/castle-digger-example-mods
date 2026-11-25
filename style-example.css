@@ -1,0 +1,9 @@
+/* This example CSS changes the font to monofont and colors all messages red */
+
+html {
+  font-family: monospace;
+}
+
+.message {
+  color: red;
+}
