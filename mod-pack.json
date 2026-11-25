@@ -2,7 +2,8 @@
     "type": "ModPack",
     "items": [
         "https://raw.githubusercontent.com/simeonpfeiffer/castle-digger-example-mods/refs/heads/main/mega-quarters.json",
-        "https://raw.githubusercontent.com/simeonpfeiffer/castle-digger-example-mods/refs/heads/main/phteven.json"
+        "https://raw.githubusercontent.com/simeonpfeiffer/castle-digger-example-mods/refs/heads/main/phteven.json",
+        "https://raw.githubusercontent.com/simeonpfeiffer/castle-digger-example-mods/refs/heads/main/style-example.css"
     ],
     "name": "Example Pack",
     "author": "Your Name",
